@@ -1,6 +1,8 @@
 /**
  * Created by User on 22.02.2017.
  */
-public class main {
-    System.out.print("Hello, world!");
+class main{
+    public static void main(String[] args) {
+        System.out.println("asfasf");
+    }
 }
